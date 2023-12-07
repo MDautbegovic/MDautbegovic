@@ -1,9 +1,24 @@
 - 👋 Hi, I’m @MDautbegovic
 
-Mirza Dautbegovic is DevOps Engineer, passionate about Cloud technologies and DevOps culture. 
-On daily basis he builds infrastructure on AWS and Azure, also uses hybrid Cloud solutions.
-Currently, work as DevOps Engineer at Endava. He works with microservices, Cloud infrastructure, Containers Kubernetes, and many more. 
-Last few years promoting security in DevOps.
+I am DevOps Engineer with  more than 5 years of hands on experience in effectively managing and optimizing critical deployments within AWS and Azure environments.
+I work with microservices, Cloud infrastructure, Containers,Kubernetes,IaC (Terraform), ELK stack, CI/CD,  and many more. 
+Last few years promoting security in DevOps, and sharing knowledge at different conferences as a speaker.
+
+
+Some of my technical skills:
+- AWS
+- Azure
+- Kubernetes
+- Docker
+- IaC ( Terraform, CloudFormation)
+- CI/CD (Jenkins, CodePipeline, ArgoCD, GitLab CI)
+- Git
+- Linux
+- Bash
+- Python
+
+
+
 
  
 You can contact me on mirza@dautbegovic.de
